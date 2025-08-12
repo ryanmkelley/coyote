@@ -2,13 +2,12 @@
 
 ## Standouts:
 
-1. AgileX Robotics - China 
+1. AgileX Robotics - China (Most impressive)
+2. Rover Robotics - USA (Made in USA)
+3. Super Droid - USA (local)
+4. Teledyne - USA (Large Enterprise)
 
-## USA UGV Companies 
-
-# U.S.-Based UGV (Rover) Companies 
-
-# U.S.-Based UGV (Rover) Companies — Quick Scan
+## U.S.-Based UGV (Rover) Companies 
 
 | Company (HQ) | Founded | Core UGV Products (examples) | Typical Price (USD) | Funding / IPO | Sources |
 |---|---:|---|---:|---|---|
